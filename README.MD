@@ -67,8 +67,8 @@ public static void main(String[] args) {
  }
 ```
 **见证奇迹的时刻**
-```
 运行此方法后你会发现User类已经出现在了com.liwy.javapoet下面！生成的User类的代码如下：
+```
 package com.liwy.javapoet;
 
 import java.lang.String;
